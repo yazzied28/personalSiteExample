@@ -2,3 +2,8 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.email-form{
+  width: 400px;
+  margin: 0 auto;
+}
